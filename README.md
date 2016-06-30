@@ -16,7 +16,7 @@
 
 
 ## In less than 6 months - a few highlights
-- Static To WP
+- Core of workshop was to create a platform for people to lift themselves up
 - OOP and MVC structure for web app development
 - JS as a language is taught with emphasis on fundamentals / not to rely on frameworks 
 
